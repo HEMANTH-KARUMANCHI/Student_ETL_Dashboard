@@ -1,0 +1,101 @@
+ID,Name,Course,Marks
+101,Oscar,Data Science,85
+102,Liam,Cyber Security,69
+103,Alice,Cloud Computing,63
+104,Liam,Data Science,74
+105,Oscar,Data Science,73
+106,Eva,Cloud Computing,82
+107,Oscar,AI,69
+108,Jack,Cloud Computing,99
+109,Oscar,AI,75
+110,Alice,Cloud Computing,87
+111,Oscar,AI,58
+112,Nina,Cyber Security,81
+113,Grace,Web Development,79
+114,Henry,Cloud Computing,61
+115,Eva,Web Development,75
+116,Bob,AI,65
+117,Alice,AI,52
+118,Liam,Cloud Computing,99
+119,Ravi,AI,65
+120,Priya,Cyber Security,77
+121,Maya,Data Science,62
+122,Maya,Data Science,77
+123,Priya,Cloud Computing,75
+124,Kiran,Web Development,56
+125,Frank,Data Science,85
+126,David,Data Science,97
+127,Carol,Web Development,98
+128,Henry,AI,52
+129,Carol,AI,61
+130,Grace,Data Science,86
+131,David,Cyber Security,69
+132,David,AI,85
+133,Frank,Cloud Computing,97
+134,Carol,Data Science,75
+135,Sara,Web Development,64
+136,Oscar,Data Science,61
+137,Eva,AI,98
+138,Quinn,AI,62
+139,Frank,Cyber Security,74
+140,Maya,Cloud Computing,92
+141,Alice,AI,64
+142,Oscar,AI,76
+143,Bob,Web Development,77
+144,Quinn,Web Development,86
+145,Nina,Data Science,79
+146,Quinn,Data Science,76
+147,Bob,Web Development,52
+148,Liam,Web Development,56
+149,Tom,Web Development,57
+150,Liam,Web Development,51
+151,Eva,Cloud Computing,78
+152,Henry,Data Science,51
+153,Sara,AI,78
+154,Carol,Web Development,97
+155,Jack,AI,62
+156,Grace,Cyber Security,52
+157,Priya,Data Science,69
+158,Eva,Web Development,77
+159,Jack,AI,87
+160,Oscar,Cloud Computing,83
+161,Quinn,Web Development,72
+162,Ravi,Data Science,60
+163,Eva,Cyber Security,95
+164,Maya,Data Science,86
+165,Maya,Cyber Security,86
+166,Quinn,Web Development,56
+167,David,Cyber Security,65
+168,Sara,AI,82
+169,Eva,Web Development,54
+170,David,Cyber Security,74
+171,Henry,Data Science,69
+172,Carol,AI,90
+173,Priya,Cyber Security,79
+174,Sara,Web Development,65
+175,Ravi,Web Development,81
+176,Quinn,Web Development,75
+177,Liam,Cloud Computing,92
+178,Maya,Data Science,50
+179,Sara,Web Development,82
+180,Jack,Cloud Computing,98
+181,Kiran,Data Science,92
+182,David,Cyber Security,51
+183,Priya,Web Development,100
+184,Nina,Web Development,74
+185,Kiran,Web Development,78
+186,Grace,Data Science,86
+187,Alice,Cyber Security,86
+188,Jack,AI,61
+189,Nina,Cyber Security,75
+190,Ravi,Web Development,72
+191,Sara,Cyber Security,89
+192,Henry,Data Science,66
+193,Grace,Cyber Security,72
+194,Bob,Data Science,100
+195,Grace,Cyber Security,88
+196,Bob,Cyber Security,50
+197,Priya,Cloud Computing,80
+198,David,AI,61
+199,Carol,AI,70
+200,Jack,Web Development,91
